@@ -1,0 +1,11 @@
+/* Map container styles */
+#map {
+    height: 600px;
+    width: 100%;
+}
+
+/* Optional: Style for popup text */
+.leaflet-popup-content {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
